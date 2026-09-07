@@ -1,0 +1,5 @@
+.edge-*-test/
+.thumbnail
+.vscode/
+*-check.png
+uploads/
